@@ -1,4 +1,4 @@
-# Simple Web App Template
+# simple web app template
 
 this project is a basic template for building a web application using Ruby, Sinatra, and ActiveRecord. It provides a clean structure to help you start your own web app quickly.
 
@@ -57,3 +57,9 @@ This template follows the **MVC (Model-View-Controller)** architectural pattern,
 - **Helpers**: Reusable modules for auxiliary logic (`helpers/`).
 
 The structure also separates static assets (`public/`) and configuration files (`config/`), following best practices
+
+## Ready to Use
+
+This template comes fully set up and ready to use. The SQLite database is preconfigured and connected through ActiveRecord, and the environment is prepared to run the application without additional setup.git init
+
+Simply install dependencies, run migrations, and start the server to begin building your web app immediately.
